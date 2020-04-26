@@ -1,0 +1,27 @@
+/* .head {
+    float: left;
+    background: white;
+    width: auto;
+    height: 300px;
+} */
+.logo{
+    width: auto;
+    height: 150px;
+    
+}
+.title{
+    text-align: center;
+    color: #A5F59D;
+}
+.table{
+    width: auto;
+    background: white;
+    margin: 0 auto;
+}
+.formulario{
+    margin: auto;
+    text-align: center;
+}
+body{ 
+    background: #1FAC7B;
+}
